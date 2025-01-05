@@ -1,6 +1,6 @@
 ### Image Captioning using CNN-RNN Architecture
 
-(![alt text](image.png)
+![alt text](image.png)
 
 The CNN-RNN framework for image captioning comprises two primary components: the CNN-based encoder and the RNN-based decoder.
 
